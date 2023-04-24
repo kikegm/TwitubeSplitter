@@ -1,4 +1,4 @@
-# Audio Downloader Bot
+# TwitubeSplitter
 
 This is a Telegram bot that allows users to download audio from YouTube and Twitch videos, convert the audio to mp3 format, and split it into sub-audios. The bot then sends the sub-audios to the user via Telegram.
 
